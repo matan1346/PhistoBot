@@ -1,0 +1,53 @@
+Hello, Welcome to the Phisto Bot!
+Phisto bot can save your photos and tags them.
+You can access your photos by the filter command.
+
+What can you do with this bot?
+1. *Upload Photos* - Just choose a photo from
+     the gallery or take a one shot and send 
+     to the bot.
+     When uploading a photo, you can add tags in the caption by
+     typing with comma separated.
+     For example: Matan, student ....
+     The bot will scan the photo content and tag
+     the photo by detecting labels.
+
+2. *Filter Photos* -
+    Just type the command
+    */filter [start_date/star_sign] [end_date/star_sign] tag1 tag2 tag3...*
+    For example:
+       */filter 14/8/21 15/8/21 Human*
+    This command will search for photos between 14-15/8/21
+    with the tag of Human and return the photos if found
+
+3.  *Get all Photos* -
+    Just type the command */all* for getting all the photos.
+
+4.  *Delete filter* -
+    Just type the command
+    */delete [start_date/star_sign] [end_date/star_sign] tag1 tag2 tag3...*
+    For example:
+        */delete [star_sign] 15/08/21 omer*
+        The bot will delete all the photos until 15/08/21
+        with the tag: omer
+
+5.  *Delete all* -
+    Just type the command */delete_all* for deleting all the photos.
+
+*# Features* -
+    When uploading a photo, the bot scanning for celebrity faces,
+    text and labels of the photo.
+    If those data was found, the bot will display the data back to
+    the user with:
+      -Detection celebrity names
+      -Celebrity links to their description page
+      -Detection text by lines
+      -Detection labels text
+
+*# [star_sign]* - start sign is SHITF + 8 - demonestrate all options
+    for this position.
+    So if you type this sign instead of a date, it will allow all
+    the dates in this position.
+
+
+*So, what are you waiting for? Phisto!*

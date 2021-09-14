@@ -1,0 +1,6 @@
+tinydb
+botocore
+boto3
+pickleDB==0.9.2
+Flask==2.0.1
+requests==2.25.1
