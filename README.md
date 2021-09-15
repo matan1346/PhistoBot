@@ -21,3 +21,6 @@ A telegram bot that tag your photos  and you can search for them later by those 
 
 ## Retrieve Images By Tags using /filter command
 ![Image](./screenshots/EX7.PNG)
+
+## Collaborator
+[Omer Hadad](https://github.com/omerhad)
